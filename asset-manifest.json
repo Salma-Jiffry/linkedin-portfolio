@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/linkedin-portfolio/static/css/main.175eadfe.css",
-    "main.js": "/linkedin-portfolio/static/js/main.5eb6cd1e.js",
+    "main.js": "/linkedin-portfolio/static/js/main.7b005e8f.js",
     "static/js/453.bab6dae5.chunk.js": "/linkedin-portfolio/static/js/453.bab6dae5.chunk.js",
     "static/media/final-bg.jpg": "/linkedin-portfolio/static/media/final-bg.547b57330193a541c67c.jpg",
     "static/media/bike-race.jpg": "/linkedin-portfolio/static/media/bike-race.6d9325032a7c43802d55.jpg",
@@ -13,6 +13,7 @@
     "static/media/php.png": "/linkedin-portfolio/static/media/php.714aa24d1d570d9de99d.png",
     "static/media/sql.png": "/linkedin-portfolio/static/media/sql.b700296a917c98c23cc8.png",
     "static/media/react.png": "/linkedin-portfolio/static/media/react.d3171bb9aecf97b9892b.png",
+    "static/media/laravel.png": "/linkedin-portfolio/static/media/laravel.5208c809b83644dd7509.png",
     "static/media/boostrap.png": "/linkedin-portfolio/static/media/boostrap.9fa61f1ae5ca7b416239.png",
     "static/media/javascript.png": "/linkedin-portfolio/static/media/javascript.0ab4be8b3e7d20669b93.png",
     "static/media/css.png": "/linkedin-portfolio/static/media/css.2ab79bf023a87655a988.png",
@@ -24,11 +25,11 @@
     "static/media/slick.woff": "/linkedin-portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/linkedin-portfolio/index.html",
     "main.175eadfe.css.map": "/linkedin-portfolio/static/css/main.175eadfe.css.map",
-    "main.5eb6cd1e.js.map": "/linkedin-portfolio/static/js/main.5eb6cd1e.js.map",
+    "main.7b005e8f.js.map": "/linkedin-portfolio/static/js/main.7b005e8f.js.map",
     "453.bab6dae5.chunk.js.map": "/linkedin-portfolio/static/js/453.bab6dae5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.175eadfe.css",
-    "static/js/main.5eb6cd1e.js"
+    "static/js/main.7b005e8f.js"
   ]
 }
